@@ -1,5 +1,4 @@
-google.com, pub-9369238556690975, DIRECT, f08c47fec0942fa0
-
+# Fallback
 # QR Scanner Pro
 google.com, ca-app-pub-9369238556690975~9329322619, DIRECT, f08c47fec0942fa0
 
