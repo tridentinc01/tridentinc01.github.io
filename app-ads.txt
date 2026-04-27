@@ -1,6 +1,1 @@
-# Fallback
-# QR Scanner Pro
-google.com, ca-app-pub-9369238556690975~9329322619, DIRECT, f08c47fec0942fa0
-
-# Tic Tac Toe
-google.com, ca-app-pub-9369238556690975~9404899729, DIRECT, f08c47fec0942fa0
+google.com, ca-app-pub-9369238556690975, DIRECT, f08c47fec0942fa0
